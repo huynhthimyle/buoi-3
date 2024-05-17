@@ -1,0 +1,10 @@
+.wrapper{
+    border: 2px solid black;
+    width:240px;
+    float:left;
+    text-align:center;
+    margin:6px;
+}
+.tt{
+    float:left;
+}
